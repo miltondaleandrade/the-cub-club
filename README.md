@@ -3,7 +3,7 @@
 <img src="./mockups/logo.png">
 
 ## Members
-- Nate Shim
+- Robert Britton
 - Rachel Perez
 - Ben Lowry(lead)
 
@@ -239,7 +239,7 @@ _Use the table below to create your team's timeframes. Given the project is abou
 
 ## SWOT Analysis
 
-## Nate
+## Robert
 ### Strengths:
 - I think I am good at knowing what needs to do done overall for a feature to work and then splitting it up into smaller steps 
 
